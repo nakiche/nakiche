@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Hola! soy Thomas, Ingeniero de sistemas y Full Stack Developer** 
+**Soy Thomas, Ingeniero de sistemas y Full Stack Developer** 
 
 - 🔭 Técnologías: HTML, CSS, JavaScript, Git, NodeJS, Express, React, React-Redux, SQL, Sequelize, Postgresql y Bootstrap ...
 - 🌱 En proceso de aprendizaje: Phyton ...
