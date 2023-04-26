@@ -1,4 +1,4 @@
-## <div align="center">Hi  i'm Thomas👋 a full-time full-stack developer</div>  
+## <div align="center">Hi  i'm Thomas👋 full-time full-stack developer</div>  
  - *🌱 I’m currently learning Phyton*  
   
 - *❓Professional and personal growth are important to me.*  
