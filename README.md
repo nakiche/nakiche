@@ -1,5 +1,4 @@
-### *<div align="center">Hi  i'm Thomas👋 a full-time full-stack developer </div>*  
-  
+## <div align="center">Hi  i'm Thomas👋 a full-time full-stack developer</div>  
  - *🌱 I’m currently learning Phyton*  
   
 - *❓Professional and personal growth are important to me.*  
@@ -10,7 +9,7 @@
 <br/>  
 
 
-## My Skills Set  
+## <div align="center">My Skills Set </div>  
 <table><tr><td valign="top" width="45%">
 
 
@@ -45,7 +44,7 @@
 
 <br/>  
 
-## Connect with me  
+## <div align="center">Let's connect</div>
 <div align="center">
 <a href="https://github.com/nakiche" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -56,7 +55,6 @@
 </div>  
   
 <br/>  
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakiche&hide_border=true&layout=compact" align="center" /></div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=nakiche&&style=flat-square" align="center" />
