@@ -42,6 +42,8 @@
 
 </td></tr></table>  
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakiche&hide_border=true&layout=compact" align="center" /></div>  
+
 <br/>  
 
 ## <div align="center">Let's connect</div>
@@ -54,12 +56,10 @@
 </a>  
 </div>  
   
-<br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakiche&hide_border=true&layout=compact" align="center" /></div>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nakiche&&style=flat-square" align="center" />
-</div>  
-<br/>  
 
- ####  Email 📧: tommynaquiche@hotmail.com
+ ####  *Email 📧: tommynaquiche@hotmail.com*
  ####  Wsp    📱: +51938927852
+ <br/> 
+ <div align="center">
+ <img src="https://komarev.com/ghpvc/?username=nakiche&&style=flat-square" align="center" />
+ </div>   
