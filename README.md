@@ -1,25 +1,16 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/programared-afa1e.appspot.com/o/post%2Fa6094465-0907-4001-9530-a5bcd22b8740?alt=media&token=2eb5f085-e381-4c17-a9e2-6b19aa0cbea4" align="left" style="width: 100%" />  
+### *<div align="center">Hi  i'm Thomas👋 a full-time full-stack developer </div>*  
   
-
-### *<div align="center">Hi there 👋I'm a full-time full-stack developer </div>*  
+ - *🌱 I’m currently learning Phyton*  
   
-
-- *🔭 I’m currently working on HTML, CSS, JavaScript, Git, NodeJS, Express, React, React-Redux, SQL, Sequelize, Postgresql, Bootstrap*  
-  
-
-- *🌱 I’m currently learning Phyton*  
-  
-
 - *❓Professional and personal growth are important to me.*  
-  
-
-- *⚡ About me: i consider my self a fitness person*  
+ 
+- *⚡ About me: I like challenges, learning, fitness, sharing and living*  
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Skills Set  
 <table><tr><td valign="top" width="45%">
 
 
@@ -71,3 +62,6 @@
 <img src="https://komarev.com/ghpvc/?username=nakiche&&style=flat-square" align="center" />
 </div>  
 <br/>  
+
+## Email 📧: tommynaquiche@hotmail.com
+## Wsp   📱: +51938927852
