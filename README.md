@@ -1,5 +1,5 @@
 ## <div align="center">Hi  i'm Thomas👋 full-time full-stack developer</div>  
- - *🌱 I’m currently learning Phyton*  
+ - *🌱 I’m currently learning Typescript and React Native*  
   
 - *❓Professional and personal growth are important to me.*  
  
